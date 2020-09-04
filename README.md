@@ -1,0 +1,1 @@
+Strip HTTPS (and, at the moment, most content) from a website
